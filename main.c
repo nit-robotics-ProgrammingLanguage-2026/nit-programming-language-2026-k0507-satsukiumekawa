@@ -18,7 +18,7 @@ int main(void)
     else if (input > 0)
         printf("D");
     else if (input == 0)
-            printf("\");
+            printf("/");
     else
         printf("NG");
     return 0;
